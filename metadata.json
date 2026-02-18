@@ -1,0 +1,5 @@
+{
+  "name": "HR Talent Scouter AI",
+  "description": "An advanced HR tool for automated CV analysis, candidate scoring, and talent selection using Gemini AI.",
+  "requestFramePermissions": []
+}
